@@ -4,7 +4,7 @@
 
 A vulnerability has been identified in the D-Link DNS series network storage devices, allowing for the exposure of sensitive device information to unauthorized actors. This vulnerability is due to an unauthenticated access flaw in the **`info.cgi`** script, which can be exploited via a simple HTTP GET request, affecting over 920,000 devices on the Internet.
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## **Affected Models**
 
@@ -34,17 +34,17 @@ Several cases on the Internet were randomly selected:
 
 ## Actual Result
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%204.png)
+![Untitled](Untitled%204.png)
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%205.png)
+![Untitled](Untitled%205.png)
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%206.png)
+![Untitled](Untitled%206.png)
 
-![Untitled](DLINK%20DNS-320%20c1cb5ec7d1e24daf9eef6f423759b36d/Untitled%207.png)
+![Untitled](Untitled%207.png)
 
 ## Fix Recommendation
 
